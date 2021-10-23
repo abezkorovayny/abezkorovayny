@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Sitecore 10
 - 💞️ I’m looking to collaborate on .NET Core development
 - 📫 How to reach me:
-  - e-mail: andrew@bezkorovayny.com
+  - e-mail: ***@bezkorovayny.com
   - phone: upon request
 
 <!---
