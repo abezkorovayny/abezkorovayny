@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abezkorovayny
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently NOT learning Sitecore 10 anymore :)
+- 🌱 I’m currently NOT learning Sitecore 10 anymore :) but I am happy to share knowledge if needed
 - 💞️ I’m looking to collaborate on .NET Core development
 - 📫 How to reach me:
   - e-mail: ***@bezkorovayny.com
